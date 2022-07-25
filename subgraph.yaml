@@ -9,7 +9,7 @@ dataSources:
     name: AlphaRandomCurvedLostWorldFactory
     network: fuji
     source:
-      address: '0xdB2C5f2Fc62807659594E6B0EBBE8863DdB288E4'
+      address: '0x6f5F78f35694cfF9115FAd7f5b32dd462d65673B'
       abi: AlphaRandomCurvedLostWorldFactory
       startBlock: 11300000
     mapping:
@@ -29,7 +29,7 @@ dataSources:
     name: BetaRandomFlatLostWorldFactory
     network: fuji
     source:
-      address: '0x38370fFe7Ed75CBFeA9Ddb31b70F159B4e06AFDb'
+      address: '0xDc417309eCF9C3E7D2B4045F12751C8DbF1c2A23'
       abi: BetaRandomFlatLostWorldFactory
       startBlock: 11300000
     mapping:
@@ -49,7 +49,7 @@ dataSources:
     name: BetaSimpleFlatLostWorldFactory
     network: fuji
     source:
-      address: '0xba37cf86e6B43F72231081386492BC790a4AbDa0'
+      address: '0x39fA0f65355952af972f6decEc0c38fD0b10dd5C'
       abi: BetaSimpleFlatLostWorldFactory
       startBlock: 11300000
     mapping:
@@ -69,7 +69,7 @@ dataSources:
     name: GammaRandomFlatLostWorldFactory
     network: fuji
     source:
-      address: '0xD5F01fA4aa0175E200158C09C14B55581D5e7D2a'
+      address: '0xb2d3506Dc0A135Dcea0229EC259E3887B9aA27D3'
       abi: GammaRandomFlatLostWorldFactory
       startBlock: 11300000
     mapping:
@@ -89,7 +89,7 @@ dataSources:
     name: GammaSimpleFlatLostWorldFactory
     network: fuji
     source:
-      address: '0x54Ff1Dd838d2eB5620DfEDC805555bDC76e6B2d9'
+      address: '0xbE3cbb9E475da618f3900dA3986d8e04815558F9'
       abi: GammaSimpleFlatLostWorldFactory
       startBlock: 11300000
     mapping:
@@ -110,7 +110,7 @@ dataSources:
     name: AlphaLostWorldsMarketplaceV1
     network: fuji
     source:
-      address: '0xe2a80c3258Ec9dcAaCe480fb89B24e39644eb1f0'
+      address: '0x0229d718e6EC7115087E3E745d0675e2952F5A17'
       abi: AlphaLostWorldsMarketplaceV1
       startBlock: 11300000
     mapping:
@@ -135,7 +135,7 @@ dataSources:
     name: LostWorldsMarketplace
     network: fuji
     source:
-      address: '0x162681827f41e389EE27da6b0f32310d6123d747'
+      address: '0xa623fa8d0E81872622748114884411F1035D5517'
       abi: LostWorldsMarketplace
       startBlock: 11300000
     mapping:
@@ -161,7 +161,7 @@ dataSources:
     name: BetaLostAchievementFactoryClone
     network: fuji
     source:
-      address: '0x6Dca3BF381Be60F034680b73c47826779d8f0481'
+      address: '0x5353Ac2fD4f6CcDb2868f63d26427a3E32CE9747'
       abi: BetaLostAchievementFactoryClone
       startBlock: 11300000
     mapping:
@@ -181,7 +181,7 @@ dataSources:
     name: GammaLostAchievementFactoryClone
     network: fuji
     source:
-      address: '0xE4ef4bFB3b0C0cadc307dFFfAF3AEaad0b41302d'
+      address: '0x3b6D754755dCd4e7f1D1BF823059D3326c0dB4fb'
       abi: GammaLostAchievementFactoryClone
       startBlock: 11300000
     mapping:
