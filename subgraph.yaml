@@ -181,7 +181,7 @@ dataSources:
     name: GammaLostAchievementFactoryClone
     network: fuji
     source:
-      address: '0x3b6D754755dCd4e7f1D1BF823059D3326c0dB4fb'
+      address: '0xF3bD03af2603eb4B6139780B7E2b66d8f9a1C7ea'
       abi: GammaLostAchievementFactoryClone
       startBlock: 11300000
     mapping:

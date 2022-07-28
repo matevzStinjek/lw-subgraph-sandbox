@@ -24868,7 +24868,7 @@
             "blockNumber": 11754783
         },
         "GammaLostAchievementFactoryClone": {
-            "address": "0x3b6D754755dCd4e7f1D1BF823059D3326c0dB4fb",
+            "address": "0xF3bD03af2603eb4B6139780B7E2b66d8f9a1C7ea",
             "abi": [
                 {
                     "anonymous": false,
@@ -25122,10 +25122,10 @@
                     "type": "function"
                 }
             ],
-            "blockNumber": 11754783
+            "blockNumber": 12022970
         },
         "GammaOwnerBasedVerifier": {
-            "address": "0x28dBeC5244555e5DAE9378e612e246d85DE80aF8",
+            "address": "0xe1947Ba1a090b7496a9c9116852Ef4CF79E5841d",
             "abi": [
                 {
                     "inputs": [
@@ -25246,7 +25246,7 @@
                     "type": "function"
                 }
             ],
-            "blockNumber": 11754780
+            "blockNumber": 12022839
         },
         "GammaRandomFlatLostWorld": {
             "address": "0xD861B294d350A326CDFf3Bb6cFD8250aE4AD0593",
